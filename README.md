@@ -196,7 +196,7 @@ The inverter was implemented on a compact custom PCB.
 ### 🔧 Final PCB
 
 <p align="center">
-  <img src="images/final-pcb.jpg" width="800">
+  <img src="Screenshot 2026-03-02 201450.png" width="800">
 </p>
 
 ### 🖥️ PCB Layout
