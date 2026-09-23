@@ -208,7 +208,7 @@ The inverter was implemented on a compact custom PCB.
 ### 📐 Schematic
 
 <p align="center">
-  <img src="images/schematic.png" width="800">
+  <img src="Screenshot 2026-03-04 005148.png" width="800">
 </p>
 
 ---
