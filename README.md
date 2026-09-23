@@ -202,7 +202,7 @@ The inverter was implemented on a compact custom PCB.
 ### 🖥️ PCB Layout
 
 <p align="center">
-  <img src="images/pcb-layout.png" width="800">
+  <img src="Screenshot 2026-03-04 004919.png" width="800">
 </p>
 
 ### 📐 Schematic
